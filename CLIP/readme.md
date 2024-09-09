@@ -1,0 +1,1 @@
+This is a code to find the similarity index between two images. The images are converted into an embedding using CLIP transformer. The new image that you want to check is also embedded and compared aginst the similarity of the list of images to find which is closer to the query image.
